@@ -1,0 +1,4 @@
+frozendict
+git+https://github.com/zelaznik/frozen_dict.git
+pyrsistent
+immutables
